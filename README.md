@@ -12,4 +12,3 @@ The upstream url for the projects is:
 * [mpy-repl-tool](https://aur.archlinux.org/packages/mpy-repl-tool/)
 * [mpy-repl-tool-git](https://aur.archlinux.org/packages/mpy-repl-tool-git/)
 * [libqalculate-git](https://aur.archlinux.org/packages/libqalculate-git/)
-* [qalculate-gtk-git](https://aur.archlinux.org/packages/qalculate-gtk-git/)
